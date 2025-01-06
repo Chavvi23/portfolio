@@ -47,6 +47,11 @@ $(document).ready(function () {
             name: name,
             email: email,
             message: message,
+            }).then(function(response){
+                document.getElementById("contact-form").reset();
+                alert("Form Submitted Successfully");
+            },function (error) {
+                alert("Form Submission Failed! Try Again");
             });
         event.preventDefault();
     });
