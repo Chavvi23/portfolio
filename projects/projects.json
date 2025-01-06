@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ClearSlate - Job Bias Detector",
+    "desc": "Designed and developed a tool to assess job description biases across gender, age, disability, and race. Trained a predictive model using Hugging Face Transformers and NLP techniques to extract embeddings. Built the UI with React.js and the backend with Python and Django."
+  },
+  {
+    "name": "Recipe Generator",
+    "desc": "Developed a Recipe Generator website with image classification using transfer learning to identify recipes from food images. Built a dynamic recipe recommendation system based on user ingredients. Designed a user-friendly interface for seamless interaction."
+  },
+  {
+    "name": "Expense Tracker",
+    "desc": "Built a cross-platform Expense Tracker app using Flutter for iOS and Android. Integrated a user-friendly UI for tracking expenses. Used Firebase for real-time data storage and authentication. Added charts to visualize spending patterns, and enabled push notifications for budget alerts."
+  },
+  {
+    "name": "JSON Schema Validator",
+    "desc": "Developed a JSON Schema Validator in Python to streamline backend logic, detecting mismatches between input JSON and schema definitions with clear error messages for quick debugging. Built a user-friendly interface using React.js and deployed the app on Netlify."
+  },
+  {
+    "name":"E-Commerce Platform",
+    "desc":"Developed a scalable, user-friendly e-commerce platform using Laravel, offering a seamless shopping experience. Built a responsive UI with features like product filtering, sorting, and personalized recommendations. Implemented secure customer account management with Laravel’s authentication system."
+  }
+]
